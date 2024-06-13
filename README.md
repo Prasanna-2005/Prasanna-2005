@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PRASANNA</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **REACT NATIVE**
+- 🌱 I’m currently learning WEB-DEV
 
 - 📫 How to reach me **mpk19052005@gmail.com**
 
